@@ -15,4 +15,6 @@ Recommender systems are everywhere, it's a very famous applications in today's w
 
 Netflix - A online movie/tv series streaming service uses recommender system to recommend their users what to watch next based on user preferences and overall ratings of different shows. -->
 
+Download the dataset(https://www.kaggle.com/rounakbanik/the-movies-dataset/data) and unzip it in root directory.
+
 
